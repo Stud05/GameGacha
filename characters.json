@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alice",
+    "attribute": "Water",
+    "description": "A kind-hearted mage who wields the power of water to heal her allies."
+  },
+  {
+    "name": "Bob",
+    "attribute": "Fire",
+    "description": "A daring warrior who uses his mastery of fire to burn down his enemies."
+  },
+  {
+    "name": "Charlie",
+    "attribute": "Wind",
+    "description": "A swift archer who harnesses the power of wind to strike from a distance."
+  },
+  {
+    "name": "David",
+    "attribute": "Earth",
+    "description": "A sturdy defender who uses his connection to the earth to protect his allies."
+  },
+  {
+    "name": "Eve",
+    "attribute": "Light",
+    "description": "A mysterious priestess who channels the power of light to smite her foes."
+  }
+]
